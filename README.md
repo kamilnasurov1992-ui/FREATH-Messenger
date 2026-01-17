@@ -1,2 +1,1 @@
-# FREATH-Messenger
-FREATH Messenger [RUSSIAN VERSION]
+
